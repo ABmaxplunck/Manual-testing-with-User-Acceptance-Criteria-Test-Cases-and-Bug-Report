@@ -4,7 +4,7 @@
 - please press the link that I have given to the google drive link section for better understanding
 
 ## Modules: 
-- will be updated soon
+- Login, Deposit, Send Money and Payment
 
 ## Scenarios for test cases:
 - will be updated soon
