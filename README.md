@@ -11,6 +11,7 @@
 
 
 ## Google Drive Link
+- User-Acceptance-Criteria: Will be updated soon
 - Standard Test Cases: https://shorturl.at/jlHJ8
 - Bug Report: https://shorturl.at/prsRV
   
